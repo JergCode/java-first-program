@@ -3,7 +3,7 @@ package com.h2;
 import java.util.Arrays;
 import java.util.Map;
 
-public class Fiance {
+public class Finance {
 
     public final static String BEST_LOAN_RATES = "bestLoanRates";
     public final static String SAVINGS_CALCULATOR = "savingsCalculator";
